@@ -1,0 +1,11 @@
+{
+  "name": "@diode/dev",
+  "description": "set up development box",
+  "version": "0.0.1",
+  "dependencies": {
+    "@diode/apk": "0.0.4"
+  },
+  "scripts": {
+    "start": "node index"
+  }
+}
